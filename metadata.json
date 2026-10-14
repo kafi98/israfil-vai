@@ -1,0 +1,6 @@
+{
+  "name": "আমার পরিকল্পনা",
+  "description": "দৈনিক ও মাসিক পরিকল্পনা, হিজরি ক্যালেন্ডার ও লক্ষ্য ট্র্যাকার (Bengali Task & Daily Planner)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
